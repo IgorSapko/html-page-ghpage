@@ -1,0 +1,17 @@
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# production
+/build
+/styles
+/prefixed-styles
+index.html
+LICENSE
+*.json
+*.js
+*.md
+npm-debug.log*
+
